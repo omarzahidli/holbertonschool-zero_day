@@ -1,2 +1,2 @@
 #!/bin/bash
-exho "The school is open!"
+echo "The School is so cool!"
